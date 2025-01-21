@@ -1,0 +1,9 @@
+mkdir - make directory
+rmdir - remove directory
+cd - enter a specific directory/folder
+cd .. - go back to previous directory
+pwd - print/present working directory
+ls - list
+touch - create file
+rm - remove file
+clear
